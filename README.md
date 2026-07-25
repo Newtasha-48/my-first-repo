@@ -1,3 +1,3 @@
 # my-first-repo
-This is my first Git Repository
-Author- Newtasha Das
+This is my first Git Repository.
+Author- Newtasha Das.
